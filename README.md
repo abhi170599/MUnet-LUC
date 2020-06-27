@@ -1,5 +1,5 @@
 # MUnet-LUC
-Land Use Classification with mUnet by <a href = "https://github.com/abhi170599">Abhishek </a> and <a href="https://github.com/sayonpalit2599">Sayon</a>
+Land Use Classification with mUnet by <a href = "https://github.com/abhi170599">Abhishek </a> and <a href="https://github.com/sayonpalit">Sayon</a>
 <h2>Description</h2>
 <p>We aimed at developing a deep learning Pipeline to classify land use types from satellite images.<br>
         Land Use can be classified into following classes-<br>
